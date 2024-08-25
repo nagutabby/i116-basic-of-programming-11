@@ -319,4 +319,3 @@ class TokenList(object):
 """
 assert 1 < 0 or False, "error message"
 """
-

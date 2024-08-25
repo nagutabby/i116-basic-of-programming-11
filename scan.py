@@ -186,4 +186,3 @@ print( l2s(scan("abc")) )
 print( '' == '' )
 print( l2s([Token(TName.SEMC,None), Token(TName.WHILE,None), Token(TName.VAR,'xyz')]) )
 """
-
