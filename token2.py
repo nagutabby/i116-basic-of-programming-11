@@ -37,4 +37,3 @@ print( str(Token(TName.WHILE,None)) )
 print( str(Token(TName.NUM,100)) )
 print( str(Token(TName.VAR,'xyz')) )
 """
-
